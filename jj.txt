@@ -3,6 +3,5 @@
 <h1> Jeejesh </h1>
 <h1> Ramath House </h1>
 <h1> Perinjanam </h1>
-<h1> Thrissur </h1>
 </body>
 </html>
